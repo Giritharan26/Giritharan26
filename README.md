@@ -4,7 +4,7 @@ I'm Giritharan Muthukrishnan. I'm currently doing python for ML/AI internship at
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Giritharan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GiritharanM4)](https://twitter.com/GiritharanM4) [![Linkedin Badge](https://img.shields.io/badge/-Giritharan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/giritharan-m-2604/) [![Mail Badge](https://img.shields.io/badge/-@Giritharan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/giritharan_giri/) [![Mail Badge](https://img.shields.io/badge/-Giritharan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:giritharan26042000@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Giritharan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GiritharanM4)](https://twitter.com/GiritharanM4) [![Linkedin Badge](https://img.shields.io/badge/-Giritharan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giritharan-m-2604/) [![Mail Badge](https://img.shields.io/badge/-@Giritharan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/giritharan_giri/) [![Mail Badge](https://img.shields.io/badge/-Giritharan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:giritharan26042000@gmail.com)
 
 <!-- TODO: Add last video link -->
 
