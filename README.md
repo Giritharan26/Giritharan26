@@ -43,7 +43,7 @@ I'm Giritharan Muthukrishnan. I'm currently doing python for ML/AI internship at
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Giritharan26/Giritharan26/resumes/Giritharan%Resume%18_8_21.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Giritharan26/Giritharan26/blob/master/resumes/Giritharan%Resume%18_8_21.pdf)
 - :email: giritharan26042000@gmail.com
 
 
